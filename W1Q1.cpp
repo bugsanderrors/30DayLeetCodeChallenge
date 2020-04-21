@@ -1,4 +1,7 @@
-/*  Given a non-empty array of integers, every element appears twice except for one. Find that single one.
+/*  
+    Single Number
+
+    Given a non-empty array of integers, every element appears twice except for one. Find that single one.
 
     Note:
 
@@ -13,6 +16,8 @@
     Output: 4
 */
 
+#include<bits/stdc++.h>
+using namespace std;
 
 int singleNumber(vector<int>& nums) 
 {
