@@ -1,5 +1,5 @@
 # 30DayLeetCodeChallenge
-Solutions to 30 day LeetCode Challenge (Solution will be uploaded after the deadline for the problem is ended. No cheating.)
+Solutions to 30 day LeetCode Challenge (Solution will be uploaded after the deadline for the problem is ended.)
 
 Solution for a particular problem will be in C++ or Python. :octocat:
 (Only function definition is there!) :camel:
